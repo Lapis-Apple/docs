@@ -1,10 +1,11 @@
 ---
 title: "Project List Using wsldl"
 ---
-# Project List Using wsldl
-List of projects using the official build of wsldl.
+# 在使用 wsldl 的项目
 
-## Distros
+官方构建的wsldl项目列表。
+
+## 发行版
 [Alpine Linux](https://github.com/yuk7/AlpineWSL) (by [yuk7](https://github.com/yuk7))
 
 [Alpine Linux with Git-LFS and Sphinx](https://github.com/binarylandscapes/AlpineWSL) (by [binarylandscapes](https://github.com/binarylandscapes))
